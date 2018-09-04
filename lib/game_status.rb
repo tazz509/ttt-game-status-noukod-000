@@ -13,7 +13,7 @@ WIN_COMBINATIONS = [
 [0, 3, 6]
 [2, 5, 8]
 [2, 4, 6]
-
+]
 
 
 def won?(board)
